@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**iremdogrusoz/iremdogrusoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 ## 💁‍♀️  About me
 - 🏫 I am a `Senior` at Molecular Biology and Genetics at Middle East Technical University (METU)
 - 🔭 I’m currently working on drug discovery using machine learning and data analysis
