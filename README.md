@@ -19,13 +19,14 @@
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=iremdogrusoz&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=iremdogrusoz&show_icons=true&theme=radical)
 
-## 🛠️ &nbsp; Computer Skills
+## 🛠️ &nbsp; Computer Skills 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
+<img src="https://github.com/iremdogrusoz/iremdogrusoz/blob/main/Night-Coding.gif" width="auto">
 
 
 
