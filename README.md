@@ -4,7 +4,6 @@
 - 🏫 I am a graduate student in Data Informatics at Middle East Technical University (METU)
 - 🏫 I graduated from Molecular Biology and Genetics Department at Middle East Technical University (METU)
 - 🔭 I’m currently working on drug discovery using machine learning and data analysis
-- 🌱 I’m currently learning machine learning with python.
 - 🎵 In my free time, I play classical guitar and make SFX make-up. 
 - 🤔 I’m currently open for: A long-term internship or a new job opportunity
 - 📫 How to reach me:
