@@ -14,10 +14,6 @@
 - 🤓 Always learning new things
 
 	
-📌 GitHub Stats And Top Languages
-
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=iremdogrusoz&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=iremdogrusoz&show_icons=true&theme=radical)
 
 ## 🛠️ &nbsp; Computer Skills 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
